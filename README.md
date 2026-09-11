@@ -1,3 +1,5 @@
+![](AMETHRINE_logo.jpeg)
+
 ![](AMETHRINE.jpeg)
 
 <h1 align="center">AMETHRINE</h1>
