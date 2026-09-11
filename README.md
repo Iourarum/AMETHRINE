@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="assets/amethrine-logo.svg" alt="AMETHRINE" width="180">
-</p>
+![](AMETHRINE.jpeg)
+
+// <p align="center">
+//  <img src="assets/amethrine-logo.svg" alt="AMETHRINE" width="180">
+// </p>
 
 <h1 align="center">AMETHRINE</h1>
 
@@ -9,8 +11,6 @@
   <strong>H</strong>igh-dimensional, <strong>R</strong>iemannian &amp;
   <strong>I</strong>nteractive <strong>N</strong>umerical <strong>E</strong>nvironments
 </p>
-
-![](AMETHRINE.jpeg)
 
 <p align="center">
   <em>Interactive visualization of complex numbers, probability distributions,<br>
