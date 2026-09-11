@@ -1,6 +1,4 @@
-![](MiniLogo.jpeg)
-
-![](AMETHRINE.jpeg)
+![](Amethrine_Logo_BusinessCard.png)
 
 <h1 align="center">AMETHRINE</h1>
 
@@ -15,6 +13,8 @@
   Hilbert spaces, intersections, and non-Euclidean geometry — in Ruby.</em>
 </p>
 
+---
+![](AMETHRINE.jpeg)
 ---
 
 > **Status: active development, not yet released.** The mathematics is
