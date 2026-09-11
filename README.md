@@ -1,9 +1,5 @@
 ![](AMETHRINE.jpeg)
 
-// <p align="center">
-//  <img src="assets/amethrine-logo.svg" alt="AMETHRINE" width="180">
-// </p>
-
 <h1 align="center">AMETHRINE</h1>
 
 <p align="center">
