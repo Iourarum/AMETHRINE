@@ -1,4 +1,4 @@
-![](AMETHRINE_logo.jpeg)
+![](MiniLogo.jpeg)
 
 ![](AMETHRINE.jpeg)
 
