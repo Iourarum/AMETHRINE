@@ -26,7 +26,7 @@ The arc geometry in `assets/` was computed by
 
 
 ---
-![](AMETHRINE.jpeg)
+![](Amethrine_README_image.jpg)
 ---
 
 ## Why
