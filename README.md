@@ -13,10 +13,6 @@
   Hilbert spaces, intersections, and non-Euclidean geometry — in Ruby.</em>
 </p>
 
----
-![](AMETHRINE.jpeg)
----
-
 > **Status: active development, not yet released.** The mathematics is
 > implemented and tested; the rendering layer is being built out.
 
@@ -27,6 +23,11 @@ picture of what this library is about: straight lines that are not straight,
 and intersections that behave differently depending on the space you are in.
 The arc geometry in `assets/` was computed by
 `Amethrine::Geometry::Hyperbolic.ideal_geodesic_circle`, not drawn by hand.
+
+
+---
+![](AMETHRINE.jpeg)
+---
 
 ## Why
 
