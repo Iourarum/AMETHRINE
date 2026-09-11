@@ -1,4 +1,4 @@
-![](Amethrine_Logo_BusinessCard.png)
+![](Amethrine_Logo_BusinessCard2.png)
 
 <h1 align="center">AMETHRINE</h1>
 
