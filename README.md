@@ -10,6 +10,8 @@
   <strong>I</strong>nteractive <strong>N</strong>umerical <strong>E</strong>nvironments
 </p>
 
+![](AMETHRINE.jpeg)
+
 <p align="center">
   <em>Interactive visualization of complex numbers, probability distributions,<br>
   Hilbert spaces, intersections, and non-Euclidean geometry — in Ruby.</em>
